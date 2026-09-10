@@ -15,7 +15,6 @@ A complete collection of **CADEM study material and engineering drawing resource
 
 - 📄 **Engineering Drawing PDFs**
 - 💻 **CAD Drawing Files**
-- 📚 **CADEM Study Material**
 
 ## 🎯 Purpose
 
