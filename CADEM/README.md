@@ -1,4 +1,4 @@
-# 📐 CADEM – Computer Aided Engineering Drawing & Modelling
+# 📐 CADEM – Computer aided design of Electric Machines
 
 A complete collection of **CADEM study material and engineering drawing resources** for **Third Year Electrical Engineering (TE Electrical)** students as per the **SPPU 2024 Pattern**.
 
