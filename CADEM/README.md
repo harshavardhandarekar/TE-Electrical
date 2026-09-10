@@ -27,4 +27,9 @@ Students can easily **view and download PDF and CAD drawing files directly**, wi
 **Third Year Electrical Engineering (TE Electrical)**  
 **SPPU – 2024 Pattern**
 
- 
+```
+---
+
+## 👨‍💻 Author
+
+Harshavardhan Darekar
